@@ -1,0 +1,8 @@
+the ability to control your component
+
+use effect hook 
+
+higher functions are functions that take in other functions as aparameter
+
+
+component inheritance: to pass contents from one componnet to another

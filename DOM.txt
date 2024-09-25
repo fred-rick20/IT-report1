@@ -1,0 +1,8 @@
+document object model(DOM)
+
+document objects alllows us to access the html tree from our java script it allows us to perform read and write operations 
+
+defer:holds the script until all html has rendered
+
+
+event:how the user interacts with the browser

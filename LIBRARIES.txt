@@ -1,0 +1,11 @@
+adding external libraries to our react application
+
+
+custom hoook:is a resusable function that allows you to encapulate 
+
+
+why yous custom hooks:it is reusabel,
+
+
+
+adding bootstrap to our code to make css easier

@@ -1,0 +1,3 @@
+flex box is a one dimentional diplay meaning it can only go horizontal and veritcal
+it is written as "display:flex;" the display property should be included on the container and not the children 
+while GRID is a 2 dimentional display meaning it can go both horizontal and veritical at the same time 

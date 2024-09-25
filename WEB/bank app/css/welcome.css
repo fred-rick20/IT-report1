@@ -1,0 +1,37 @@
+welcome.css v4
+#container,
+#container > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+#container > div > p {
+  width: 70%;
+}
+#btn {
+  display: flex;
+  gap: 10px;
+  margin: 7px;
+}
+
+#btn > .one {
+  width: 100%;
+  background-color: black;
+  color: white;
+  height: 30px;
+}
+
+.two {
+  width: 100%;
+  background-color: rgb(24, 24, 109);
+  color: white;
+  height: 30px;
+}
+
+button {
+  border-radius: 7px;
+}

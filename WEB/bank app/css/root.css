@@ -1,0 +1,82 @@
+body {
+  background-image: linear-gradient(
+    to bottom,
+    rgb(8, 191, 8),
+    rgb(27, 110, 27)
+  );
+}
+
+#container {
+  min-height: 100vh;
+}
+
+.merriweather-light {
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.merriweather-regular {
+  font-family: "Merriweather", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.merriweather-bold {
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.merriweather-black {
+  font-family: "Merriweather", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.merriweather-light-italic {
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.merriweather-regular-italic {
+  font-family: "Merriweather", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.merriweather-bold-italic {
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.merriweather-black-italic {
+  font-family: "Merriweather", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+@media only screen and (max-width: 1200px) {
+  /* /Tablets [601px -> 1200px]/ */
+}
+@media only screen and (max-width: 600px) {
+  /* Big smartphones [426px -> 600px] */
+}
+@media only screen and (max-width: 425px) {
+  /* Small smartphones [325px -> 425px] */
+
+  #btn > .one {
+    width: 250px !important;
+  }
+
+  .two {
+    width: 300px !important;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
